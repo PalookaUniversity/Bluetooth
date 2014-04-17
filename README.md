@@ -1,4 +1,4 @@
 Bluetooth
 =========
 
-Bluetooth RFCOMM commun ications between Android and Arduino
+Bluetooth RFCOMM communications between Android and Arduino
