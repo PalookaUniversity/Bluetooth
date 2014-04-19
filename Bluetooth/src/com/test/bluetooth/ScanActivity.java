@@ -26,7 +26,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.Toast;
 
-public class MainActivity extends Activity implements OnItemClickListener {
+public class ScanActivity extends Activity implements OnItemClickListener {
 
 	ArrayAdapter<String> listAdapter;
 	ListView listView;
